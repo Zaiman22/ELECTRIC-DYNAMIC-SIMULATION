@@ -8,6 +8,9 @@
  ## Added energy calculation
  Just some integration and basic math of current, voltage, and distance but a nice thing to have
 
+## Added throttle subsystem
+ This subsytem will make it easier for simulating simple strategy and can help to simulate the nessecary data for techincal report in KMHE.
+
  ## future plan
  1. Fit it to ancol (KMHE 2023 track)
  2. Fix the losses and make it dynamic (like raymond's)
